@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.tryflly.flyjumpee",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": " Try To Fly is a new game for the iOS and Android platforms by Boombit where you have to make your character fly as far as possible, into the next goal, so that you can make it to the next level. You can make money and upgrade your characters power, flight, and income. You also have a number of different characters and skins that you cannot unlock. "
+		},
+		{
+			"title": "Guide 2",
+			"description": "Read on for a list of tips, cheats, strategies, how to get unlimited money, and how to unlock every single character in Try To Fly!"
+		},
+		{
+			"title": "Guide 3",
+			"description": "Making it to the next level doesn’t necessarily involve flying as far as possible. You have to fly into the checkered flag goal at a certain point near the end of the level; if you do that, then you will make it to the next level.  "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " Upgrading your power will increase the speed at which your character flies. Upgrading their distance will allow them to fly farther. "
+		},
+		{
+			"title": "Guide 5",
+			"description": "To stop your character in the middle of the flight, though, simply hit the skip button and the round will end. This allows you to collect whatever reward you earn for that unlimited playing time, essentially giving you unlimited cash.  "
+		}
+	]
+}
